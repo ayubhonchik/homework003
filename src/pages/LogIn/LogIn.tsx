@@ -6,7 +6,7 @@ const LogIn = () => {
   return (
     <>
     <input type="text" placeholder='username' />
-    <input type="text" placeholder='password' />
+    <input type="text" placeholder='password'/>
     <button onClick={setToken}>Log In</button>
     </>
   )
